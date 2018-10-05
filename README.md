@@ -5,7 +5,6 @@ Technologies used :
 - opencv
 - dlib
 <br>
-<br>
 
 Tasks breakdown
 1. Vehicle Detection
