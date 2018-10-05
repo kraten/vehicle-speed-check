@@ -1,9 +1,11 @@
 # Vehicle Speed Detection
 
 Technologies used :
--    Python
-	- opencv
-	- dlib
+- Python
+- opencv
+- dlib
+<br>
+<br>
 
 Tasks breakdown
 1. Vehicle Detection
