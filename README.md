@@ -1,5 +1,7 @@
 # Vehicle Speed Detection
 
+![output.gif](output.gif)
+
 Technologies used :
 - Python
 - opencv
